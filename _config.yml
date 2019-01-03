@@ -1,4 +1,9 @@
-#title: Samara Luiza
+---
+title: "Welcome to my blog"
+date: 2019-01-03
+---
+
+title: Samara Luiza
 author: samaraluyza
 email: luyzasamara5@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -8,10 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
 twitter_username: your-twitter-handle
 github_username:  your-github-handle
 
----
-title: "Welcome to my blog"
-date: 2019-01-03
----
+
 
 
 show_excerpts: true # set to false to remove excerpts on the homepage
